@@ -64,3 +64,6 @@ A arquitetura limpa (Clean Architecture) será adotada para garantir uma estrutu
 - Frameworks: ASP.NET
 - Banco de Dados: SQL SERVER 
 
+## Diagrama do Banco De Dados
+o diagrama a seguir representa como está as relaçôes no banco de dados 
+
