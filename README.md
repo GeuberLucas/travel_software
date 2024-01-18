@@ -108,5 +108,8 @@ A arquitetura limpa (Clean Architecture) será adotada para garantir uma estrutu
 ## Diagrama do Banco De Dados
 o diagrama a seguir representa como está as relaçôes no banco de dados 
 
-![Diagram ER](https://github.com/GeuberLucas/travel_software/blob/master/Imagens_Readme/diagrame%20Er%20Travel_Software.png)
+
+<img src="Imagens_Readme/diagrama Er Travel_Software.png" alt="Diagram ER" >
+
+
 
