@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Domain.Entities
+namespace Test.Domain
 {
-    public sealed class Bus
+    internal class BusUnitTest
     {
     }
 }
